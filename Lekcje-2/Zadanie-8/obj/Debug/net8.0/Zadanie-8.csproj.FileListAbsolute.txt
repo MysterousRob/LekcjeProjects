@@ -1,0 +1,15 @@
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\bin\Debug\net8.0\Zadanie-8.exe
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\bin\Debug\net8.0\Zadanie-8.deps.json
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\bin\Debug\net8.0\Zadanie-8.runtimeconfig.json
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\bin\Debug\net8.0\Zadanie-8.dll
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\bin\Debug\net8.0\Zadanie-8.pdb
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\obj\Debug\net8.0\Zadanie-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\obj\Debug\net8.0\Zadanie-8.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\obj\Debug\net8.0\Zadanie-8.AssemblyInfo.cs
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\obj\Debug\net8.0\Zadanie-8.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\obj\Debug\net8.0\Zadanie-8.sourcelink.json
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\obj\Debug\net8.0\Zadanie-8.dll
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\obj\Debug\net8.0\refint\Zadanie-8.dll
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\obj\Debug\net8.0\Zadanie-8.pdb
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\obj\Debug\net8.0\Zadanie-8.genruntimeconfig.cache
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-8\obj\Debug\net8.0\ref\Zadanie-8.dll

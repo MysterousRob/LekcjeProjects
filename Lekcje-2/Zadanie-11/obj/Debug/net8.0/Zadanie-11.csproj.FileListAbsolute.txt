@@ -1,0 +1,6 @@
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-11\obj\Debug\net8.0\Zadanie-11.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-11\obj\Debug\net8.0\Zadanie-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-11\obj\Debug\net8.0\Zadanie-11.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-11\obj\Debug\net8.0\Zadanie-11.AssemblyInfo.cs
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-11\obj\Debug\net8.0\Zadanie-11.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-2\Zadanie-11\obj\Debug\net8.0\Zadanie-11.sourcelink.json

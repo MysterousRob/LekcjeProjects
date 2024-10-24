@@ -1,0 +1,15 @@
+C:\Users\rober\source\repos\LekcjeProjects\obj\Debug\net8.0\LekcjeProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\LekcjeProjects\obj\Debug\net8.0\LekcjeProjects.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\LekcjeProjects\obj\Debug\net8.0\LekcjeProjects.AssemblyInfo.cs
+C:\Users\rober\source\repos\LekcjeProjects\obj\Debug\net8.0\LekcjeProjects.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\LekcjeProjects\obj\Debug\net8.0\LekcjeProjects.sourcelink.json
+C:\Users\rober\source\repos\LekcjeProjects\bin\Debug\net8.0\LekcjeProjects.exe
+C:\Users\rober\source\repos\LekcjeProjects\bin\Debug\net8.0\LekcjeProjects.deps.json
+C:\Users\rober\source\repos\LekcjeProjects\bin\Debug\net8.0\LekcjeProjects.runtimeconfig.json
+C:\Users\rober\source\repos\LekcjeProjects\bin\Debug\net8.0\LekcjeProjects.dll
+C:\Users\rober\source\repos\LekcjeProjects\bin\Debug\net8.0\LekcjeProjects.pdb
+C:\Users\rober\source\repos\LekcjeProjects\obj\Debug\net8.0\LekcjeProjects.dll
+C:\Users\rober\source\repos\LekcjeProjects\obj\Debug\net8.0\refint\LekcjeProjects.dll
+C:\Users\rober\source\repos\LekcjeProjects\obj\Debug\net8.0\LekcjeProjects.pdb
+C:\Users\rober\source\repos\LekcjeProjects\obj\Debug\net8.0\LekcjeProjects.genruntimeconfig.cache
+C:\Users\rober\source\repos\LekcjeProjects\obj\Debug\net8.0\ref\LekcjeProjects.dll
