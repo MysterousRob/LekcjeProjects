@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{740AE6B7-F04C-4586-A09C-D07F496E6979}|Lekcje-3\\Zadanie-1\\Zadanie-1.csproj|c:\\users\\rober\\source\\repos\\lekcjeprojects\\lekcje-3\\zadanie-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740AE6B7-F04C-4586-A09C-D07F496E6979}|Lekcje-3\\Zadanie-1\\Zadanie-1.csproj|solutionrelative:lekcje-3\\zadanie-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D782847-320C-4DAB-A1D7-5D35AD356FE0}|Lekcje-3\\Zadanie-3\\Zadanie-3.csproj|c:\\users\\rober\\source\\repos\\lekcjeprojects\\lekcje-3\\zadanie-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D782847-320C-4DAB-A1D7-5D35AD356FE0}|Lekcje-3\\Zadanie-3\\Zadanie-3.csproj|solutionrelative:lekcje-3\\zadanie-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-1\\Program.cs",
+              "RelativeDocumentMoniker": "Lekcje-3\\Zadanie-1\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-1\\Program.cs",
+              "RelativeToolTip": "Lekcje-3\\Zadanie-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:13:54.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-3\\Program.cs",
               "RelativeDocumentMoniker": "Lekcje-3\\Zadanie-3\\Program.cs",
