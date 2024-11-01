@@ -7,8 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lekcje-2", "Lekcje-2", "{1B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lekcje-3", "Lekcje-3", "{DF3911B4-E252-481E-8E5F-442379888B25}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lekcje-4", "Lekcje-4", "{D210D9BA-BBDF-4723-A2AD-9D95FCA11B02}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie-1", "Lekcje-2\Zadanie-1\Zadanie-1.csproj", "{98C10947-8B17-4F90-97B2-DB2597A79EFA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie-2", "Lekcje-2\Zadanie-2\Zadanie-2.csproj", "{E366EECC-B98D-4AD9-81D7-A9CB6B88258C}"
