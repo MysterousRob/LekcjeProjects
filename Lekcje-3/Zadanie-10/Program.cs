@@ -1,9 +1,28 @@
-﻿// See https://aka.ms/new-console-template for more information
-PrintUpperCase("Hello, World");
+﻿using System;
 
-public static void PrintUpperCase(string input)
+class Program
 {
-    Console.WriteLine(input.ToUpper());
+    static void Main()
+    {
+        BuildAndDisplayMatrix(10, 8);
+    }
+
+    public static void BuildAndDisplayMatrix(int X, int Y)
+    {
+
+        if (X <= 0 || Y <= 0)
+        {
+            Console.WriteLine("Wymiary macierzy muszą być większe niż zero.");
+            return;
+        }
+
+        for (int i = 0; i < X; i++)
+        {
+            for (int j = 0; j < Y; j++)
+            {
+                Console.Write("$ ");
+            }
+            Console.WriteLine();
+        }
+    }
 }
-
-
