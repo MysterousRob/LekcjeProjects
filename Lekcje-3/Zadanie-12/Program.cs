@@ -1,15 +1,59 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine(CheckEvenOrOdd(10));
-Console.WriteLine(CheckEvenOrOdd(7));
+﻿using System;
 
-public static string CheckEvenOrOdd(int number)
+class Program
 {
-    if (number % 2 == 0)
+    public static (int n, int m) WczytajZKlawiatury()
     {
-        return "Even";
+        Console.Write("Podaj liczbę wierszy (n): ");
+        int n = int.Parse(Console.ReadLine());
+        Console.Write("Podaj liczbę kolumn (m): ");
+        int m = int.Parse(Console.ReadLine());
+        return (n, m);
     }
-    else
+
+    public static char[,] WypełnijTablice(int n, int m)
     {
-        return "Odd";
+        char[,] tablica = new char[n, m];
+
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < m; j++)
+            {
+                if (i == 0 || i == n - 1 || j == 0 || j == m - 1)
+                {
+                    tablica[i, j] = '#';
+                }
+                else
+                {
+                    tablica[i, j] = ' ';
+                }
+            }
+        }
+
+        return tablica;
+    }
+    public static void WyswietlTabliceNaEkran(char[,] tablica)
+    {
+        int n = tablica.GetLength(0);
+        int m = tablica.GetLength(1);
+
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < m; j++)
+            {
+                Console.Write(tablica[i, j]);
+            }
+            Console.WriteLine(); 
+        }
+    }
+
+    static void Main(string[] args)
+    {
+
+        var (n, m) = WczytajZKlawiatury();
+
+        char[,] tablica = WypełnijTablice(n, m);
+
+        WyswietlTabliceNaEkran(tablica);
     }
 }
