@@ -1,17 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System; 
 
+class Program {
+public static string EvenOrOdd(int number)
 {
-    BuildAndPrintMatrix(3, 5);
-}
-
-public static void BuildAndPrintMatrix(int x, int y)
-{
-    for int(int i = 0; i < 3; ++i)
+    // Sprawdzenie parzystości liczby
+    if (number % 2 == 0)
     {
-        for int(int j = 0; j < y; j++)
-        {
-            Console.Write("$");
-        }
-        Console.WriteLine();
+        return "Even";
+    }
+    else
+    {
+        return "Odd";
+    }
+}
+    static void Main(string[] args)
+    {
+        Console.WriteLine(EvenOrOdd(4));
+        Console.WriteLine(EvenOrOdd(7));
     }
 }
