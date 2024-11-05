@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D782847-320C-4DAB-A1D7-5D35AD356FE0}|Lekcje-3\\Zadanie-3\\Zadanie-3.csproj|c:\\users\\rober\\source\\repos\\lekcjeprojects\\lekcje-3\\zadanie-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D782847-320C-4DAB-A1D7-5D35AD356FE0}|Lekcje-3\\Zadanie-3\\Zadanie-3.csproj|solutionrelative:lekcje-3\\zadanie-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22C32FA5-169B-4D96-81F5-0EBFF1C97854}|Lekcje-3\\Zadanie-6\\Zadanie-6.csproj|c:\\users\\rober\\source\\repos\\lekcjeprojects\\lekcje-3\\zadanie-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C32FA5-169B-4D96-81F5-0EBFF1C97854}|Lekcje-3\\Zadanie-6\\Zadanie-6.csproj|solutionrelative:lekcje-3\\zadanie-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A9A3F78-CA09-434B-8ED1-EF820D8D13FD}|Lekcje-3\\Zadanie-2\\Zadanie-2.csproj|c:\\users\\rober\\source\\repos\\lekcjeprojects\\lekcje-3\\zadanie-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A9A3F78-CA09-434B-8ED1-EF820D8D13FD}|Lekcje-3\\Zadanie-2\\Zadanie-2.csproj|solutionrelative:lekcje-3\\zadanie-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE2AD383-A5BD-4BFA-BF07-8E4F308E0E90}|Lekcje-3\\Zadanie-4\\Zadanie-4.csproj|c:\\users\\rober\\source\\repos\\lekcjeprojects\\lekcje-3\\zadanie-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2AD383-A5BD-4BFA-BF07-8E4F308E0E90}|Lekcje-3\\Zadanie-4\\Zadanie-4.csproj|solutionrelative:lekcje-3\\zadanie-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-3\\Program.cs",
-              "RelativeDocumentMoniker": "Lekcje-3\\Zadanie-3\\Program.cs",
-              "ToolTip": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-3\\Program.cs",
-              "RelativeToolTip": "Lekcje-3\\Zadanie-3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-6\\Program.cs",
+              "RelativeDocumentMoniker": "Lekcje-3\\Zadanie-6\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-6\\Program.cs*",
+              "RelativeToolTip": "Lekcje-3\\Zadanie-6\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:19:48.539Z",
+              "WhenOpened": "2024-11-05T09:35:18.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-2\\Program.cs",
-              "RelativeDocumentMoniker": "Lekcje-3\\Zadanie-2\\Program.cs",
-              "ToolTip": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-2\\Program.cs",
-              "RelativeToolTip": "Lekcje-3\\Zadanie-2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-4\\Program.cs",
+              "RelativeDocumentMoniker": "Lekcje-3\\Zadanie-4\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-4\\Program.cs",
+              "RelativeToolTip": "Lekcje-3\\Zadanie-4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:19:12.525Z",
+              "WhenOpened": "2024-11-05T09:23:12.448Z",
               "EditorCaption": ""
             }
           ]
