@@ -1,0 +1,15 @@
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\obj\Debug\net8.0\Zadanie-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\obj\Debug\net8.0\Zadanie-13.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\obj\Debug\net8.0\Zadanie-13.AssemblyInfo.cs
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\obj\Debug\net8.0\Zadanie-13.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\obj\Debug\net8.0\Zadanie-13.sourcelink.json
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\bin\Debug\net8.0\Zadanie-13.exe
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\bin\Debug\net8.0\Zadanie-13.deps.json
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\bin\Debug\net8.0\Zadanie-13.runtimeconfig.json
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\bin\Debug\net8.0\Zadanie-13.dll
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\bin\Debug\net8.0\Zadanie-13.pdb
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\obj\Debug\net8.0\Zadanie-13.dll
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\obj\Debug\net8.0\refint\Zadanie-13.dll
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\obj\Debug\net8.0\Zadanie-13.pdb
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\obj\Debug\net8.0\Zadanie-13.genruntimeconfig.cache
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadanie-13\obj\Debug\net8.0\ref\Zadanie-13.dll

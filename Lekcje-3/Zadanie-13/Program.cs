@@ -1,45 +1,68 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
+﻿using System;
 
-int n = WczytajZKlawiatury("n");
-int m = WczytajZKlawiatury("m");
-
-char[,] tablica = WypełnijTablice(n, m);
-WyswietlTabliceNaEkran(tablica);
-
-public static char[,] WypełnijTablice(int n, int m)
+class Program
 {
-    char[,] tablica = new char[n, m];
-
-    for (int i = 0; n > 0; i++)
+    // Function to calculate the roots of the quadratic equation
+    public static double[] ObliczRozwiazania(double a, double b, double c)
     {
-        for (int j = 0; j < m; j++)
+        // Check if a is zero to avoid division by zero
+        if (a == 0)
         {
-            if (i == 0 || i == n - 1 || j == 0 || j == m - 1)
+            throw new ArgumentException("Współczynnik 'a' nie może być równy zero.");
+        }
+
+        double D = b * b - 4 * a * c; // Calculate the discriminant
+
+        if (D > 0)
+        {
+            // Two distinct real roots
+            double root1 = (-b + Math.Sqrt(D)) / (2 * a);
+            double root2 = (-b - Math.Sqrt(D)) / (2 * a);
+            return new double[] { root1, root2 }; // Return the roots as an array
+        }
+        else if (D == 0)
+        {
+            // One double root
+            double root = -b / (2 * a);
+            return new double[] { root }; // Return the single root as an array
+        }
+        else
+        {
+            // No real roots
+            return new double[0]; // Return an empty array
+        }
+    }
+
+    static void Main(string[] args)
+    {
+        // Example usage
+        Console.Write("Podaj współczynnik a: ");
+        double a = double.Parse(Console.ReadLine());
+        Console.Write("Podaj współczynnik b: ");
+        double b = double.Parse(Console.ReadLine());
+        Console.Write("Podaj współczynnik c: ");
+        double c = double.Parse(Console.ReadLine());
+
+        try
+        {
+            double[] roots = ObliczRozwiazania(a, b, c);
+
+            if (roots.Length == 0)
             {
-                tablica[i, j] = '#';
+                Console.WriteLine("Równanie nie ma rozwiązań rzeczywistych.");
             }
             else
             {
-                tablica[i, j] = ' ';
+                Console.WriteLine("Rozwiązania równania kwadratowego:");
+                foreach (var root in roots)
+                {
+                    Console.WriteLine(root);
+                }
             }
         }
-    }
-    return tablica;
-}
-// Funkcja wyświetlająca tablicę na ekranie
-
-public static void WsietlTablicaNaEkran(chat[,] tablica)
-{
-    int n = tablica.GetLength(0);
-    int m = tablica.GetLength(1);
-
-    for (int i = 0; i < n; i++)
-    {
-        for (int j = 0; j < m; j++)
+        catch (ArgumentException ex)
         {
-            Console.WriteLine(tablica[i, j]);
+            Console.WriteLine(ex.Message);
         }
-        Console.WriteLine();
     }
 }
