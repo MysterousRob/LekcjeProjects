@@ -1,23 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-char[,] matrix = new char[3, 3];
+﻿using System;
 
-char letter = 'A';
-for (int i = 0; i < 3; i++)
+class Program
 {
-    for (int j = 0; j < 3; j++)
+    static void Main()
     {
-        matrix[i, j] = letter;
-        letter++;
-    }
-}
+        double[] squareRoots = new double[20];
 
-Console.WriteLine("Zawartość tablicy dwuwymiarowej:");
+        for (int i = 0; i < squareRoots.Length; i++)
+        {
+            squareRoots[i] = Math.Sqrt(i + 1); ;
+        }
 
-for (int i = 0; i < 3; i++)
-{
-    for (int i = object; i < 3; i++)
-    {
-        Console.WriteLine(matrix[i, j] + " ");
+        foreach (double value in squareRoots)
+        {
+            Console.WriteLine(value);
+        }
     }
-    Console.WriteLine();
 }
