@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CAFFA39-CC1E-4B83-85EF-E2F7F8F7749E}|Lekcje-3\\Zadanie-13\\Zadanie-13.csproj|c:\\users\\rober\\source\\repos\\lekcjeprojects\\lekcje-3\\zadanie-13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CAFFA39-CC1E-4B83-85EF-E2F7F8F7749E}|Lekcje-3\\Zadanie-13\\Zadanie-13.csproj|solutionrelative:lekcje-3\\zadanie-13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7BF32DB-BDE3-4870-BFE0-DD586392AD82}|Lekcje-5\\Zadanie-1\\Zadanie-1.csproj|c:\\users\\rober\\source\\repos\\lekcjeprojects\\lekcje-5\\zadanie-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BF32DB-BDE3-4870-BFE0-DD586392AD82}|Lekcje-5\\Zadanie-1\\Zadanie-1.csproj|solutionrelative:lekcje-5\\zadanie-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-13\\Program.cs",
-              "RelativeDocumentMoniker": "Lekcje-3\\Zadanie-13\\Program.cs",
-              "ToolTip": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-3\\Zadanie-13\\Program.cs*",
-              "RelativeToolTip": "Lekcje-3\\Zadanie-13\\Program.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwEQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-5\\Zadanie-1\\Program.cs",
+              "RelativeDocumentMoniker": "Lekcje-5\\Zadanie-1\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-5\\Zadanie-1\\Program.cs",
+              "RelativeToolTip": "Lekcje-5\\Zadanie-1\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T16:03:55.823Z",
+              "WhenOpened": "2024-11-07T09:41:09.777Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
