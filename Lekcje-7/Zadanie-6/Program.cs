@@ -1,5 +1,4 @@
-﻿// Klasa Cat
-public class Cat : Mammal, IWalkable
+﻿public class Cat : Mammal, IWalkable
 {
     public override string Sound => "Meow";
 
@@ -18,14 +17,12 @@ public class Cat : Mammal, IWalkable
         Console.WriteLine("I like walking on furniture and tables.");
     }
 
-    // Nadpisanie metody ToString
     public override string ToString()
     {
         return "I'm a Cat, I do Meow";
     }
 }
 
-// Klasa Dog
 public class Dog : Mammal, IWalkable, ISwimmable
 {
     public override string Sound => "Woof";
@@ -50,14 +47,12 @@ public class Dog : Mammal, IWalkable, ISwimmable
         Console.WriteLine("I swim poorly...");
     }
 
-    // Nadpisanie metody ToString
     public override string ToString()
     {
         return "I'm a Dog, I do Woof";
     }
 }
 
-// Klasa Salmon
 public class Salmon : IWalkable, ISwimmable
 {
     public void Walk()
@@ -70,7 +65,6 @@ public class Salmon : IWalkable, ISwimmable
         Console.WriteLine("I can swim really fast!");
     }
 
-    // Nadpisanie metody ToString
     public override string ToString()
     {
         return "I'm a Salmon, I do Glub";
@@ -85,10 +79,9 @@ class Program
         Cat cat = new Cat();
         Salmon salmon = new Salmon();
 
-        // Wywołanie ToString na obiektach
-        Console.WriteLine(dog.ToString());    // Output: I'm a Dog, I do Woof
-        Console.WriteLine(cat.ToString());    // Output: I'm a Cat, I do Meow
-        Console.WriteLine(salmon.ToString()); // Output: I'm a Salmon, I do Glub
+        Console.WriteLine(dog.ToString());    
+        Console.WriteLine(cat.ToString());    
+        Console.WriteLine(salmon.ToString()); 
     }
 }
 
