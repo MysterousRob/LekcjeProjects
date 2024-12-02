@@ -1,43 +1,34 @@
-﻿using ConsoleaApp1;
-using System;
+﻿using System;
 
-namespace ConsoleaApp1
+class Program
 {
-    public class Person
+    public static (int Min, int Max) FindMinMax(int[] numbers)
     {
-        public Person()
+        if (numbers == null || numbers.Length == 0)
         {
-
+            throw new ArgumentException("Tablica nie może być pusta.");
         }
 
-        public Person(string firstname, string lastname, DateTime birthdate)
+        int min = numbers[0];
+        int max = numbers[0];
+
+        foreach (var num in numbers)
         {
-            this.FirstName = firstname;
-            this.LastName = lastname;
-            this.BirthDate = birthdate;
+            if (num < min) min = num;
+            if (num > max) max = num;
         }
 
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public DateTime BirthDate { get; set; }
+        return (min, max);
+    }
 
-        public string GetFullName()
-        {
-            return $"{FirstName} {LastName}";
-        }
+    static void Main(string[] args)
+    {
+        int[] numbers = { 3, 7, 1, 9, 4, -2, 10 };
 
-        public int GetAge()
-        {
-            DateTime today = DateTime.Today;
-            int age = today.Year - BirthDate.Year;
-            return age;
-        }
+        var (min, max) = FindMinMax(numbers);
 
-
-        public bool IsAdult()
-        {
-            return GetAge() >= 18;
-        }
+        Console.WriteLine($"Najmniejsza liczba: {min}");
+        Console.WriteLine($"Największa liczba: {max}");
     }
 }
 

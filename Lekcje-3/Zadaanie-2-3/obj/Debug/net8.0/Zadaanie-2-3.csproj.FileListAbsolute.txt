@@ -3,3 +3,13 @@ C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\obj\Debug\net8.
 C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\obj\Debug\net8.0\Zadaanie-2-3.AssemblyInfo.cs
 C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\obj\Debug\net8.0\Zadaanie-2-3.csproj.CoreCompileInputs.cache
 C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\obj\Debug\net8.0\Zadaanie-2-3.sourcelink.json
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\bin\Debug\net8.0\Zadaanie-2-3.exe
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\bin\Debug\net8.0\Zadaanie-2-3.deps.json
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\bin\Debug\net8.0\Zadaanie-2-3.runtimeconfig.json
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\bin\Debug\net8.0\Zadaanie-2-3.dll
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\bin\Debug\net8.0\Zadaanie-2-3.pdb
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\obj\Debug\net8.0\Zadaanie-2-3.dll
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\obj\Debug\net8.0\refint\Zadaanie-2-3.dll
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\obj\Debug\net8.0\Zadaanie-2-3.pdb
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\obj\Debug\net8.0\Zadaanie-2-3.genruntimeconfig.cache
+C:\Users\rober\source\repos\LekcjeProjects\Lekcje-3\Zadaanie-2-3\obj\Debug\net8.0\ref\Zadaanie-2-3.dll
