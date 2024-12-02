@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        double numerator = 10;
+        double numerator = 9;
         double denominator = 0;
 
         double result = Divide(numerator, denominator);

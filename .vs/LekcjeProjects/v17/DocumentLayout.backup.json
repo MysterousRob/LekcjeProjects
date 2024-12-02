@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7BF32DB-BDE3-4870-BFE0-DD586392AD82}|Lekcje-5\\Zadanie-1\\Zadanie-1.csproj|c:\\users\\rober\\source\\repos\\lekcjeprojects\\lekcje-5\\zadanie-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7BF32DB-BDE3-4870-BFE0-DD586392AD82}|Lekcje-5\\Zadanie-1\\Zadanie-1.csproj|solutionrelative:lekcje-5\\zadanie-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42BA69DD-CDC2-4D46-803F-05D8DE63943E}|Lekcje-6\\Zadanie-1\\Zadanie-1.csproj|c:\\users\\rober\\source\\repos\\lekcjeprojects\\lekcje-6\\zadanie-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BA69DD-CDC2-4D46-803F-05D8DE63943E}|Lekcje-6\\Zadanie-1\\Zadanie-1.csproj|solutionrelative:lekcje-6\\zadanie-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631767BE-003A-416B-8BFE-609BA71DD741}|Lekcje-4\\Zadanie-1\\Zadanie-1.csproj|c:\\users\\rober\\source\\repos\\lekcjeprojects\\lekcje-4\\zadanie-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631767BE-003A-416B-8BFE-609BA71DD741}|Lekcje-4\\Zadanie-1\\Zadanie-1.csproj|solutionrelative:lekcje-4\\zadanie-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +32,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-5\\Zadanie-1\\Program.cs",
-              "RelativeDocumentMoniker": "Lekcje-5\\Zadanie-1\\Program.cs",
-              "ToolTip": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-5\\Zadanie-1\\Program.cs*",
-              "RelativeToolTip": "Lekcje-5\\Zadanie-1\\Program.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAmwDwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-6\\Zadanie-1\\Program.cs",
+              "RelativeDocumentMoniker": "Lekcje-6\\Zadanie-1\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-6\\Zadanie-1\\Program.cs",
+              "RelativeToolTip": "Lekcje-6\\Zadanie-1\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T09:41:09.777Z",
+              "WhenOpened": "2024-12-02T14:30:28.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-4\\Zadanie-1\\Program.cs",
+              "RelativeDocumentMoniker": "Lekcje-4\\Zadanie-1\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-4\\Zadanie-1\\Program.cs",
+              "RelativeToolTip": "Lekcje-4\\Zadanie-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:25:59.653Z",
               "EditorCaption": ""
             }
           ]
