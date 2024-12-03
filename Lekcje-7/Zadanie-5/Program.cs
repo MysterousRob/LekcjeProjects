@@ -1,19 +1,5 @@
 ﻿using System;
 
-public abstract class Animal
-{
-    public abstract string Sound { get; }
-    public virtual void Move()
-    {
-        Console.WriteLine("Moving...");
-    }
-}
-
-public abstract class Mammal : Animal
-{
-    public abstract void ProduceMilk();
-}
-
 public interface IWalkable
 {
     void Walk();
@@ -24,9 +10,21 @@ public interface ISwimmable
     void Swim();
 }
 
+public abstract class Animal
+{
+    public abstract string Sound { get; }
+    public abstract void Move();
+}
+
+public abstract class Mammal : Animal
+{
+    public abstract void ProduceMilk();
+}
+
 public class Cat : Mammal, IWalkable
 {
     public override string Sound => "Meow";
+
     public override void Move()
     {
         Console.WriteLine("Walking like a cat...");
@@ -41,11 +39,17 @@ public class Cat : Mammal, IWalkable
     {
         Console.WriteLine("I like walking on furniture and tables.");
     }
+
+    public override string ToString()
+    {
+        return "I'm a Cat, I do Meow";
+    }
 }
 
 public class Dog : Mammal, IWalkable, ISwimmable
 {
     public override string Sound => "Woof";
+
     public override void Move()
     {
         Console.WriteLine("Running like a dog...");
@@ -65,26 +69,38 @@ public class Dog : Mammal, IWalkable, ISwimmable
     {
         Console.WriteLine("I swim poorly...");
     }
+
+    public override string ToString()
+    {
+        return "I'm a Dog, I do Woof";
+    }
 }
 
 public class Salmon : Animal, ISwimmable
 {
-    public override string Sound => "Splash";
+    public override string Sound => "Glub";
+
     public override void Move()
     {
-        Console.WriteLine("Swimming fast in water.");
+        Console.WriteLine("Swimming like a salmon...");
     }
 
     public void Swim()
     {
         Console.WriteLine("I can swim really fast!");
     }
+
+    public override string ToString()
+    {
+        return "I'm a Salmon, I do Glub";
+    }
 }
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
+        // Tworzymy tablicę zwierząt
         Animal[] animals = new Animal[]
         {
             new Cat(),
@@ -92,19 +108,24 @@ class Program
             new Salmon()
         };
 
+        // Iteracja przez tablicę
         foreach (var animal in animals)
         {
+            // Sprawdzanie, czy obiekt jest ssakiem
             if (animal is Mammal mammal)
             {
                 mammal.ProduceMilk();
             }
 
+            // Sprawdzanie, czy obiekt implementuje ISwimmable
             if (animal is ISwimmable swimmable)
             {
                 swimmable.Swim();
             }
+
+            // Wywołanie ToString
+            Console.WriteLine(animal.ToString());
         }
-
-
     }
 }
+
