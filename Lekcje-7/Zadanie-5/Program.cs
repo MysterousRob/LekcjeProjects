@@ -100,7 +100,6 @@ class Program
 {
     static void Main()
     {
-        // Tworzymy tablicę zwierząt
         Animal[] animals = new Animal[]
         {
             new Cat(),
@@ -108,22 +107,18 @@ class Program
             new Salmon()
         };
 
-        // Iteracja przez tablicę
         foreach (var animal in animals)
         {
-            // Sprawdzanie, czy obiekt jest ssakiem
             if (animal is Mammal mammal)
             {
                 mammal.ProduceMilk();
             }
 
-            // Sprawdzanie, czy obiekt implementuje ISwimmable
             if (animal is ISwimmable swimmable)
             {
                 swimmable.Swim();
             }
 
-            // Wywołanie ToString
             Console.WriteLine(animal.ToString());
         }
     }
