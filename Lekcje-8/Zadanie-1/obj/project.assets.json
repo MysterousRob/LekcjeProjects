@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-8\\zadanie 1\\zadanie 1.csproj",
-      "projectName": "zadanie 1",
-      "projectPath": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-8\\zadanie 1\\zadanie 1.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-8\\Zadanie-1\\Zadanie-1.csproj",
+      "projectName": "Zadanie-1",
+      "projectPath": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-8\\Zadanie-1\\Zadanie-1.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-8\\zadanie 1\\obj\\",
+      "outputPath": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Lekcje-8\\Zadanie-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",

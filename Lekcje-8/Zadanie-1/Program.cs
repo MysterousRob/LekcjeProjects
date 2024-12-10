@@ -1,7 +1,8 @@
 ﻿using System;
 
 namespace MessengerApp
-{    public interface IMessage
+{
+    public interface IMessage
     {
         string Content { get; }
     }
@@ -48,6 +49,7 @@ namespace MessengerApp
     {
         static void Main(string[] args)
         {
+
             var letter = new Letter("Secret content of the letter.");
             var email = new Email("This is an email content.");
             var sms = new SMS("This is an SMS content.");
