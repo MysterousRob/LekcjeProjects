@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Sprawdziany\\Sprawdzian-1\\Sprawdzian-1\\Sprawdzian-1.csproj",
-      "projectName": "Sprawdzian-1",
-      "projectPath": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Sprawdziany\\Sprawdzian-1\\Sprawdzian-1\\Sprawdzian-1.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Sprawdziany\\Sprawdzian-1\\Sprawdzian-1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Sprawdziany\\Sprawdzian-1\\Sprawdzian-1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rober\\source\\repos\\LekcjeProjects\\Sprawdziany\\Sprawdzian-1\\Sprawdzian-1\\obj\\",
       "projectStyle": "PackageReference",

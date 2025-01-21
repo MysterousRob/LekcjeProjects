@@ -1,0 +1,15 @@
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\bin\Debug\net8.0\Zadaine-1.exe
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\bin\Debug\net8.0\Zadaine-1.deps.json
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\bin\Debug\net8.0\Zadaine-1.runtimeconfig.json
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\bin\Debug\net8.0\Zadaine-1.dll
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\bin\Debug\net8.0\Zadaine-1.pdb
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\obj\Debug\net8.0\Zadaine-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\obj\Debug\net8.0\Zadaine-1.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\obj\Debug\net8.0\Zadaine-1.AssemblyInfo.cs
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\obj\Debug\net8.0\Zadaine-1.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\obj\Debug\net8.0\Zadaine-1.sourcelink.json
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\obj\Debug\net8.0\Zadaine-1.dll
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\obj\Debug\net8.0\refint\Zadaine-1.dll
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\obj\Debug\net8.0\Zadaine-1.pdb
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\obj\Debug\net8.0\Zadaine-1.genruntimeconfig.cache
+C:\Users\rober\source\repos\LekcjeProjects\Sprawdziany\Sprawdzian-2\Zadaine-1\obj\Debug\net8.0\ref\Zadaine-1.dll
